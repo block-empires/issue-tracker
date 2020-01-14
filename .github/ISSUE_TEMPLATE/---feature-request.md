@@ -1,6 +1,6 @@
 ---
 name: "⚒️ Feature request"
-about: Suggest an idea for The Outpost
+about: Suggest an idea for Block Empires
 title: "[REQUEST] "
 labels: request
 assignees: thecenters
