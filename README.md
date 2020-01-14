@@ -1,4 +1,4 @@
-![The Outpost Logo](img/outpost-wide.png)
-# The Outpost issue and bug tracker
+![Block Empires](img/logo.png)
+# Block Empires issue and bug tracker
 ## To post issues please create a free account with Github
-# [Current Issues](https://github.com/theoutpostmc/issue-tracker/issues) / [Create a New Issue](https://github.com/theoutpostmc/issue-tracker/issues/new/choose)
+# [Current Issues](https://github.com/block-empires/issue-tracker/issues) / [Create a New Issue](https://github.com/block-empires/issue-tracker/issues/new/choose)
